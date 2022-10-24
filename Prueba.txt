@@ -1,5 +1,6 @@
 Esta es una prueba para el proyecto de Git
 
-La cual se esta realizando a manos de Víctor Camacho Carbajal
+La cual se esta realizando a manos de Víctor Camacho Carbajal, tengo 37 años
+Y vivo en Ecatepec, Estado de México
 
 Hoy es el dia 0

@@ -8,3 +8,6 @@ Hoy es el dia 0
 Su estatura es la de una mexicano promedio, 1.75mts
 
 Hoy es el Coordinador de Arquitectura de SIMA en el proyecto DBNR
+
+El dia de hoy, un nuevo usuario esta probando que pueda hacer sus aportaciones en la rama (branch) principal (main).
+Por lo cual ha decidido agregar estas nuevas lineas de prueba
